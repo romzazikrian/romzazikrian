@@ -16,7 +16,6 @@
 
 ## Association
 
-![Student Activity Units](https://img.shields.io/badge/UKM_Programming_Teknokrat-02569B.svg?&style=for-the-badge&logoColor=white)
 ![Student Activity Units](https://img.shields.io/badge/HIMA_INFORMATIKA-maroon.svg?&style=for-the-badge&logoColor=white)
 ![Student Activity Units](https://img.shields.io/badge/DUTA_TEKNOKRAT-darkgreen.svg?&style=for-the-badge&logoColor=black)
 
@@ -60,3 +59,4 @@
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
