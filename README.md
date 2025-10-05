@@ -23,40 +23,44 @@
 
 ### My Favorite Markup Languages:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-darkblue.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### My Favorite Programming Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### My Favorite RDBMS and DBMS:
 
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLyog](https://img.shields.io/badge/SQLyog-blue.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-### My Favorite Design Tools:
+### My Favorite Design & Office Tools:
 
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-orange.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-purple.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere-%23005EFF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 
 ### My Favorite Toolchain:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### My Favorite Frameworks:
 
 ![Laravel](https://img.shields.io/badge/laravel-red.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Additional Technical Skills:
+
+💻 Troubleshooting Perangkat Keras & Perangkat Lunak
