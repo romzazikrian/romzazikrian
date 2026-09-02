@@ -197,20 +197,6 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romzazikrian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romzazikrian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
 <!-- ===================== GITHUB STREAK ===================== -->
 
 ## 🔥 GitHub Streak
