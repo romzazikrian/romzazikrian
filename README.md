@@ -20,7 +20,6 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 </div>
 
-
 <br/>
 
 <div align="center">
@@ -57,96 +56,124 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ### 🌐 Full Stack Web Developer:
 
+<div>
+
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ASTRO-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/CODEIGNITER-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
+</div>
+
 ---
 
 ### ⚙️ Programming Languages:
+
+<div>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
+</div>
+
 ---
 
 ### 🗄️ Database & ORM:
+
+<div>
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
+</div>
+
 ---
 
 ### 📱 Mobile Developer:
 
+<div>
+
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+</div>
 
 ---
 
 ### 🛠️ IT Support & Troubleshooting:
 
+<div>
+
 <img src="https://img.shields.io/badge/HARDWARE_TROUBLESHOOTING-F97316?style=flat-square"/>
 <img src="https://img.shields.io/badge/SOFTWARE_TROUBLESHOOTING-2563EB?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/COMPUTER_MAINTENANCE-16A34A?style=flat-square"/>
 <img src="https://img.shields.io/badge/TECHNICAL_PROBLEM_SOLVING-9333EA?style=flat-square"/>
 <img src="https://img.shields.io/badge/IT_SUPPORT-0891B2?style=flat-square"/>
+
+</div>
 
 ---
 
 ### ☁️ Cloud Infrastructure, Development and Operations:
 
+<div>
+
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/HOSTINGER-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
 <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ONREDER-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+</div>
 
 ---
 
 ### 🎨 Software & Development Tools:
 
+<div>
+
 <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/PREMIERE_PRO-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/MICROSOFT_OFFICE-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLYOG-2563EB?style=flat-square"/>
 
+</div>
+
 ---
 
 ### 💡 Soft Skills:
+
+<div>
 
 <img src="https://img.shields.io/badge/TEAMWORK-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/RESPONSIBLE-16A34A?style=flat-square"/>
 <img src="https://img.shields.io/badge/ADAPTIVE-F97316?style=flat-square"/>
 <img src="https://img.shields.io/badge/DISCIPLINED-9333EA?style=flat-square"/>
 <img src="https://img.shields.io/badge/CREATIVE-EC4899?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/PROACTIVE-0891B2?style=flat-square"/>
 <img src="https://img.shields.io/badge/DETAIL_ORIENTED-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/PROBLEM_SOLVING-EAB308?style=flat-square"/>
 <img src="https://img.shields.io/badge/INDEPENDENT-64748B?style=flat-square"/>
 <img src="https://img.shields.io/badge/TEAM_PLAYER-14B8A6?style=flat-square"/>
+
+</div>
+
+---
 
 <div align="center">
 
