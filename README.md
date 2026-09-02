@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/119707220" width="170" alt="M. Romza Zikrian"/>
 
-# Hi, I'm M. Romza Zikrian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm M. Romza Zikrian 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%26+IT+Support;Web+%26+Mobile+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -14,6 +14,8 @@
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 <div align="center">
 
 I am an Informatics graduate passionate about **Full Stack Web & Mobile Development** and **IT Support**. I enjoy building useful applications, working with databases, solving technical problems, and continuously learning new technologies to create effective digital solutions.
@@ -21,6 +23,8 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 </div>
 
 <br/>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
 
 <div align="center">
 
@@ -52,9 +56,13 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-# Skills
+<!-- ===================== SKILLS ===================== -->
 
-### 🌐 Full Stack Web Developer:
+# 🛠️ Skills
+
+<!-- ===================== FULL STACK WEB ===================== -->
+
+### 🌐 Full Stack Web Developer
 
 <div>
 
@@ -73,7 +81,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### ⚙️ Programming Languages:
+<!-- ===================== PROGRAMMING LANGUAGES ===================== -->
+
+### ⚙️ Programming Languages
 
 <div>
 
@@ -85,7 +95,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### 🗄️ Database & ORM:
+<!-- ===================== DATABASE ===================== -->
+
+### 🗄️ Database & ORM
 
 <div>
 
@@ -98,7 +110,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### 📱 Mobile Developer:
+<!-- ===================== MOBILE ===================== -->
+
+### 📱 Mobile Developer
 
 <div>
 
@@ -109,7 +123,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### 🛠️ IT Support & Troubleshooting:
+<!-- ===================== IT SUPPORT ===================== -->
+
+### 🛠️ IT Support & Troubleshooting
 
 <div>
 
@@ -123,7 +139,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### ☁️ Cloud Infrastructure, Development and Operations:
+<!-- ===================== CLOUD & DEVOPS ===================== -->
+
+### ☁️ Cloud Infrastructure, Development & Operations
 
 <div>
 
@@ -139,7 +157,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### 🎨 Software & Development Tools:
+<!-- ===================== TOOLS ===================== -->
+
+### 🎨 Software & Development Tools
 
 <div>
 
@@ -156,7 +176,9 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
-### 💡 Soft Skills:
+<!-- ===================== SOFT SKILLS ===================== -->
+
+### 💡 Soft Skills
 
 <div>
 
@@ -175,8 +197,71 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=romzazikrian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romzazikrian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STREAK ===================== -->
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=romzazikrian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/romzazikrian/romzazikrian/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/romzazikrian/romzazikrian/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/romzazikrian/romzazikrian/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
 <div align="center">
 
 ### 🚀 Always Learning & Building
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=romzazikrian&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer"/>
 
 </div>
