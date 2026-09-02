@@ -247,21 +247,3 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 </picture>
 
 </div>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-### 🚀 Always Learning & Building
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=romzazikrian&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer"/>
-
-</div>
