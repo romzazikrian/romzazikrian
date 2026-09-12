@@ -18,7 +18,7 @@
 
 <div align="center">
 
-I am an Informatics graduate passionate about **Full Stack Web & Mobile Development** and **IT Support**. I enjoy building useful applications, working with databases, solving technical problems, and continuously learning new technologies to create effective digital solutions.
+I am an Informatics graduate passionate about **Full Stack Web & Mobile Development** and **IT Support**. I have experience in developing responsive web applications, managing databases, troubleshooting technical issues, and supporting digital systems. I enjoy turning ideas into practical digital solutions while continuously improving my technical skills and exploring new technologies.
 
 </div>
 
