@@ -1,3 +1,4 @@
+
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
@@ -7,7 +8,7 @@
 # Hi, I'm M. Romza Zikrian 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%26+IT+Support;Web+%26+Mobile+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%26+IT+Support;Building+Modern+Web+Applications;Creating+Responsive+Web+Experiences;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 </div>
@@ -18,7 +19,7 @@
 
 <div align="center">
 
-I am an Informatics graduate passionate about **Full Stack Web & Mobile Development** and **IT Support**. I have experience in developing responsive web applications, managing databases, troubleshooting technical issues, and supporting digital systems. I enjoy turning ideas into practical digital solutions while continuously improving my technical skills and exploring new technologies.
+I am an Informatics graduate passionate about **Full Stack Web Development** and **IT Support**. I have experience in developing responsive web applications, managing databases, troubleshooting technical issues, and supporting digital systems. I enjoy turning ideas into practical digital solutions while continuously improving my technical skills and exploring new technologies.
 
 </div>
 
@@ -28,28 +29,28 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 <div align="center">
 
-<a href="https://m-romzazikrian.netlify.app">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-111111?style=flat-square&logoColor=white"/>
+<a href="https://m-romzazikrian.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111111?style=flat-square&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammadromzazikrian">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/romzazikrian">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://muhammadromzazikrian.blogspot.com">
-<img src="https://img.shields.io/badge/BLOGSPOT-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLOGSPOT-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/mhmmdromza/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/6288747607844">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -89,7 +90,6 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
 </div>
 
@@ -105,19 +105,6 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PRISMA-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ===================== MOBILE ===================== -->
-
-### 📱 Mobile Developer
-
-<div>
-
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
 </div>
 
@@ -149,7 +136,7 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/HOSTINGER-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
 <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONREDER-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/RENDER-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
@@ -171,27 +158,6 @@ I am an Informatics graduate passionate about **Full Stack Web & Mobile Developm
 <img src="https://img.shields.io/badge/PREMIERE_PRO-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/MICROSOFT_OFFICE-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLYOG-2563EB?style=flat-square"/>
-
-</div>
-
----
-
-<!-- ===================== SOFT SKILLS ===================== -->
-
-### 💡 Soft Skills
-
-<div>
-
-<img src="https://img.shields.io/badge/TEAMWORK-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/RESPONSIBLE-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/ADAPTIVE-F97316?style=flat-square"/>
-<img src="https://img.shields.io/badge/DISCIPLINED-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/CREATIVE-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROACTIVE-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/DETAIL_ORIENTED-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-EAB308?style=flat-square"/>
-<img src="https://img.shields.io/badge/INDEPENDENT-64748B?style=flat-square"/>
-<img src="https://img.shields.io/badge/TEAM_PLAYER-14B8A6?style=flat-square"/>
 
 </div>
 
