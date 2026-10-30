@@ -19,7 +19,7 @@
 
 <div align="center">
 
-I am an Informatics graduate passionate about **Full Stack Web Development** and **IT Support**. I have experience in developing responsive web applications, managing databases, troubleshooting technical issues, and supporting digital systems. I enjoy turning ideas into practical digital solutions while continuously improving my technical skills and exploring new technologies.
+I am an Informatics graduate passionate about **Web Developer** and **IT Support**. I have experience in developing responsive web applications, managing databases, troubleshooting technical issues, and supporting digital systems. I enjoy turning ideas into practical digital solutions while continuously improving my technical skills and exploring new technologies.
 
 </div>
 
@@ -152,7 +152,6 @@ I am an Informatics graduate passionate about **Full Stack Web Development** and
 
 <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/PREMIERE_PRO-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
